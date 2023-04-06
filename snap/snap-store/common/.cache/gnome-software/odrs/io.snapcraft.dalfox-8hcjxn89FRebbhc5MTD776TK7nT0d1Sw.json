@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.dalfox-8hcjxn89FRebbhc5MTD776TK7nT0d1Sw",
+        "date_created": 1668166177.0,
+        "description": "Needs a crawling option",
+        "distro": "Kali GNU/Linux",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "en_GB.UTF-8",
+        "rating": 80,
+        "reported": 0,
+        "review_id": 537914,
+        "score": 10,
+        "summary": "works gret",
+        "user_display": "Liam",
+        "user_hash": "a983b49834a8948c68bff97965a1cfc5836de40e",
+        "user_skey": "7f4463008221341a84006b41274c8b404f0546c9",
+        "version": "2.8.2"
+    }
+]

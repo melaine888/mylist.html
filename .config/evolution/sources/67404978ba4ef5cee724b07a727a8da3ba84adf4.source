@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=kananamelaine@gmail.com
+Enabled=true
+Parent=164b7284c9b1495c8fb459e52088dc7de56adbed
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=ddf3998f914f4dfeda6d916ceb9efa55f1eac8a0
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=kananamelaine@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

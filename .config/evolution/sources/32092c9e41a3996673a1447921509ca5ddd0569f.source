@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=melaine.kanana@student.moringaschool.com
+Enabled=true
+Parent=e1fc139e8321d9157105bf0ebb9db4dd85da1711
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=92cb73344627948b687d11c65266155075ed2594
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=melaine.kanana@student.moringaschool.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

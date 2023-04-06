@@ -1,0 +1,13 @@
+2023-03-10 17:44:21.312 [info] Extension host with pid 10813 started
+2023-03-10 17:44:21.566 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-10 17:44:21.613 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-10 17:44:21.698 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-10 17:44:21.890 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-10 17:44:22.133 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-10 17:44:22.200 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-03-10 17:44:22.336 [info] Eager extensions activated
+2023-03-10 17:44:22.373 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-10 17:44:22.378 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-10 17:51:18.457 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-03-10 18:19:38.418 [info] Extension host terminating: renderer closed the MessagePort
+2023-03-10 18:19:38.475 [info] Extension host with pid 10813 exiting with code 0

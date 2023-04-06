@@ -1,0 +1,85 @@
+2023-03-11 13:45:06.351 [info] Log level: Info
+2023-03-11 13:45:06.351 [info] Validating found git in: "git"
+2023-03-11 13:45:06.351 [info] Using git "2.34.1" from "git"
+2023-03-11 13:45:06.351 [info] > git rev-parse --show-toplevel [7ms]
+2023-03-11 13:45:06.351 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.358 [info] > git rev-parse --show-toplevel [14ms]
+2023-03-11 13:45:06.358 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.370 [info] > git rev-parse --show-toplevel [7ms]
+2023-03-11 13:45:06.370 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.380 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-11 13:45:06.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.387 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-11 13:45:06.387 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.395 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-11 13:45:06.395 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.403 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-11 13:45:06.403 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.411 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-11 13:45:06.411 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.420 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-11 13:45:06.428 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-03-11 13:45:06.448 [info] Open repository: /home/user/.nvm
+2023-03-11 13:45:06.471 [info] > git rev-parse --show-toplevel [13ms]
+2023-03-11 13:45:06.471 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.482 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-11 13:45:06.482 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.491 [info] > git config --get commit.template [25ms]
+2023-03-11 13:45:06.500 [info] > git rev-parse --show-toplevel [11ms]
+2023-03-11 13:45:06.500 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.510 [info] > git rev-parse --show-toplevel [0ms]
+2023-03-11 13:45:06.511 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.521 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-11 13:45:06.521 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.531 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [32ms]
+2023-03-11 13:45:06.542 [info] > git rev-parse --show-toplevel [12ms]
+2023-03-11 13:45:06.542 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.550 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-11 13:45:06.550 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.558 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-11 13:45:06.558 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.565 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-11 13:45:06.565 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.578 [info] > git rev-parse --show-toplevel [8ms]
+2023-03-11 13:45:06.585 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-03-11 13:45:06.594 [info] Open repository: /home/user/MY-GIT-PROJECT
+2023-03-11 13:45:06.614 [info] > git rev-parse --show-toplevel [9ms]
+2023-03-11 13:45:06.615 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.626 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-11 13:45:06.626 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.633 [info] > git config --get commit.template [19ms]
+2023-03-11 13:45:06.635 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-11 13:45:06.635 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.648 [info] No remotes found in the git config file.
+2023-03-11 13:45:06.649 [info] > git status -z -uall [110ms]
+2023-03-11 13:45:06.655 [info] > git rev-parse --show-toplevel [13ms]
+2023-03-11 13:45:06.655 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.669 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [21ms]
+2023-03-11 13:45:06.680 [info] > git config --get commit.template [11ms]
+2023-03-11 13:45:06.680 [info] > git rev-parse --show-toplevel [17ms]
+2023-03-11 13:45:06.680 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.688 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-11 13:45:06.708 [info] > git status -z -uall [30ms]
+2023-03-11 13:45:06.710 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2023-03-11 13:45:06.723 [info] Open repository: /home/user/phase-0-html-experiencing-html-lab
+2023-03-11 13:45:06.799 [info] > git rev-parse --show-toplevel [65ms]
+2023-03-11 13:45:06.808 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [100ms]
+2023-03-11 13:45:06.824 [info] > git rev-parse --git-dir --git-common-dir [17ms]
+2023-03-11 13:45:06.836 [info] Open repository: /home/user/react
+2023-03-11 13:45:06.847 [info] > git config --get commit.template [78ms]
+2023-03-11 13:45:06.848 [info] > git config --get commit.template [89ms]
+2023-03-11 13:45:06.858 [info] > git status -z -uall [40ms]
+2023-03-11 13:45:06.859 [info] > git rev-parse --show-toplevel [12ms]
+2023-03-11 13:45:06.859 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-11 13:45:06.878 [info] No remotes found in the git config file.
+2023-03-11 13:45:06.879 [info] > git config --get commit.template [22ms]
+2023-03-11 13:45:06.883 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-03-11 13:45:06.889 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [20ms]
+2023-03-11 13:45:06.902 [info] > git status -z -uall [14ms]
+2023-03-11 13:45:06.902 [info] > git status -z -uall [7ms]
+2023-03-11 13:45:06.929 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2023-03-11 13:45:07.389 [info] > git check-ignore -v -z --stdin [24ms]
+2023-03-11 13:45:07.390 [info] > git check-ignore -v -z --stdin [16ms]
+2023-03-11 13:45:07.391 [info] > git check-ignore -v -z --stdin [10ms]
+2023-03-11 13:45:07.394 [info] > git check-ignore -v -z --stdin [7ms]
+2023-03-11 13:45:09.429 [info] > git status -z -uall [2495ms]

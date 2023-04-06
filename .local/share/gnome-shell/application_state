@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="libreoffice-writer.desktop" score="12" last-seen="1678544483"/>
+    <application id="org.gnome.FileRoller.desktop" score="35" last-seen="1678537452"/>
+    <application id="whatsapp-for-linux_whatsapp-for-linux.desktop" score="0" last-seen="1678551090"/>
+    <application id="snap-store_snap-store.desktop" score="33.4140625" last-seen="1678341243"/>
+    <application id="chromium_chromium.desktop" score="1523.74658203125" last-seen="1678616781"/>
+    <application id="org.gnome.Evolution-alarm-notify.desktop" score="19.060546875" last-seen="1678443286"/>
+    <application id="org.gnome.gedit.desktop" score="0" last-seen="1678531236"/>
+    <application id="update-manager.desktop" score="0.0030517578125" last-seen="1678333426"/>
+    <application id="org.gnome.Nautilus.desktop" score="537.53170776367188" last-seen="1678548252"/>
+    <application id="apport-gtk.desktop" score="47" last-seen="1678616071"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="1" last-seen="1678459235"/>
+    <application id="gnome-control-center.desktop" score="18758.012817382812" last-seen="1678533074"/>
+    <application id="libreoffice-impress.desktop" score="2" last-seen="1678341245"/>
+    <application id="org.gnome.eog.desktop" score="4" last-seen="1678544530"/>
+    <application id="org.gnome.Terminal.desktop" score="11184.78125" last-seen="1678616766"/>
+    <application id="firefox_firefox.desktop" score="478" last-seen="1678616343"/>
+    <application id="slack_slack.desktop" score="0" last-seen="1678537540"/>
+    <application id="libreoffice-draw.desktop" score="4" last-seen="1678544479"/>
+    <application id="gnome-system-monitor.desktop" score="3" last-seen="1678455269"/>
+    <application id="code.desktop" score="2302" last-seen="1678616502"/>
+    <application id="thunderbird.desktop" score="0" last-seen="1678615951"/>
+  </context>
+</application-state>

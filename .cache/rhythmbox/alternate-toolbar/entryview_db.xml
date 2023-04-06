@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<root>
+  <pages>
+    <page name="RBLibrarySource">'Track','Title','Genre','Artist','Album','Composer','Year','Time','Quality','Play Count','BPM','Comment','Location','Rating','Last Played','Date Added'</page>
+    <RBLibrarySource column="Track" width="46" />
+    <RBLibrarySource column="Title" width="257" />
+    <RBLibrarySource column="Genre" width="266" />
+    <RBLibrarySource column="Artist" width="265" />
+    <RBLibrarySource column="Album" width="272" />
+    <RBLibrarySource column="Composer" width="0" />
+    <RBLibrarySource column="Year" width="0" />
+    <RBLibrarySource column="Time" width="70" />
+    <RBLibrarySource column="Quality" width="0" />
+    <RBLibrarySource column="PlayCount" width="0" />
+    <RBLibrarySource column="BPM" width="0" />
+    <RBLibrarySource column="Comment" width="0" />
+    <RBLibrarySource column="Location" width="0" />
+    <RBLibrarySource column="Rating" width="0" />
+    <RBLibrarySource column="LastPlayed" width="0" />
+    <RBLibrarySource column="DateAdded" width="0" />
+    <page name="RBPodcastMainSource">'Date','Title','Feed','Time','Rating','Play Count','Last Played','Status'</page>
+    <RBPodcastMainSource column="Date" width="170" />
+    <RBPodcastMainSource column="Title" width="135" />
+    <RBPodcastMainSource column="Feed" width="136" />
+    <RBPodcastMainSource column="Time" width="70" />
+    <RBPodcastMainSource column="Rating" width="0" />
+    <RBPodcastMainSource column="PlayCount" width="0" />
+    <RBPodcastMainSource column="LastPlayed" width="0" />
+    <RBPodcastMainSource column="Status" width="89" />
+    <page name="RBIRadioSource">'Title','Genre','Rating','Last Played'</page>
+    <RBIRadioSource column="Title" width="483" />
+    <RBIRadioSource column="Genre" width="492" />
+    <RBIRadioSource column="Rating" width="0" />
+    <RBIRadioSource column="LastPlayed" width="0" />
+    <page name="AutoPlaylistSource">'Track','Title','Genre','Artist','Composer','Album','Year','Time','Quality','Rating','Play Count','Comment','Location','Last Played','Date Added','BPM'</page>
+    <AutoPlaylistSource column="Track" width="46" />
+    <AutoPlaylistSource column="Title" width="247" />
+    <AutoPlaylistSource column="Genre" width="256" />
+    <AutoPlaylistSource column="Artist" width="255" />
+    <AutoPlaylistSource column="Composer" width="0" />
+    <AutoPlaylistSource column="Album" width="261" />
+    <AutoPlaylistSource column="Year" width="0" />
+    <AutoPlaylistSource column="Time" width="70" />
+    <AutoPlaylistSource column="Quality" width="0" />
+    <AutoPlaylistSource column="Rating" width="0" />
+    <AutoPlaylistSource column="PlayCount" width="0" />
+    <AutoPlaylistSource column="Comment" width="0" />
+    <AutoPlaylistSource column="Location" width="0" />
+    <AutoPlaylistSource column="LastPlayed" width="0" />
+    <AutoPlaylistSource column="DateAdded" width="0" />
+    <AutoPlaylistSource column="BPM" width="0" />
+    <page name="RBPlayQueueSource">'Track','Title','Genre','Artist','Composer','Album','Year','Time','Quality','Rating','Play Count','Comment','Location','Last Played','Date Added','BPM'</page>
+    <RBPlayQueueSource column="Track" width="46" />
+    <RBPlayQueueSource column="Title" width="247" />
+    <RBPlayQueueSource column="Genre" width="256" />
+    <RBPlayQueueSource column="Artist" width="255" />
+    <RBPlayQueueSource column="Composer" width="0" />
+    <RBPlayQueueSource column="Album" width="261" />
+    <RBPlayQueueSource column="Year" width="0" />
+    <RBPlayQueueSource column="Time" width="70" />
+    <RBPlayQueueSource column="Quality" width="0" />
+    <RBPlayQueueSource column="Rating" width="0" />
+    <RBPlayQueueSource column="PlayCount" width="0" />
+    <RBPlayQueueSource column="Comment" width="0" />
+    <RBPlayQueueSource column="Location" width="0" />
+    <RBPlayQueueSource column="LastPlayed" width="0" />
+    <RBPlayQueueSource column="DateAdded" width="0" />
+    <RBPlayQueueSource column="BPM" width="0" />
+  </pages>
+  <database>1</database>
+</root>

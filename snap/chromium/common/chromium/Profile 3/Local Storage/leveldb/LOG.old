@@ -1,0 +1,27 @@
+2023/03/11-13:40:52.171 3 Reusing MANIFEST /home/user/snap/chromium/common/chromium/Profile 3/Local Storage/leveldb/MANIFEST-000001
+2023/03/11-13:40:52.172 3 Recovering log #10
+2023/03/11-13:40:52.178 3 Reusing old log /home/user/snap/chromium/common/chromium/Profile 3/Local Storage/leveldb/000010.log 
+2023/03/11-13:55:25.875 3 Level-0 table #15: started
+2023/03/11-13:55:25.882 3 Level-0 table #15: 26544 bytes OK
+2023/03/11-13:55:25.888 3 Delete type=0 #10
+2023/03/11-14:38:14.572 3 Level-0 table #17: started
+2023/03/11-14:38:14.580 3 Level-0 table #17: 52050 bytes OK
+2023/03/11-14:38:14.585 3 Delete type=0 #14
+2023/03/11-14:46:49.667 3 Level-0 table #19: started
+2023/03/11-14:46:49.691 3 Level-0 table #19: 409623 bytes OK
+2023/03/11-14:46:49.697 3 Delete type=0 #16
+2023/03/11-14:50:56.795 3 Level-0 table #21: started
+2023/03/11-14:50:56.802 3 Level-0 table #21: 30133 bytes OK
+2023/03/11-14:50:56.807 3 Delete type=0 #18
+2023/03/11-14:50:56.807 3 Compacting 4@0 + 1@1 files
+2023/03/11-14:50:56.832 3 Generated table #22@0: 164 keys, 418871 bytes
+2023/03/11-14:50:56.832 3 Compacted 4@0 + 1@1 files => 418871 bytes
+2023/03/11-14:50:56.836 3 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/03/11-14:50:56.837 3 Delete type=2 #17
+2023/03/11-14:50:56.837 3 Delete type=2 #19
+2023/03/11-14:50:56.837 3 Delete type=2 #21
+2023/03/11-14:50:56.837 3 Delete type=2 #12
+2023/03/11-14:50:56.837 3 Delete type=2 #15
+2023/03/11-14:57:40.499 3 Level-0 table #24: started
+2023/03/11-14:57:40.508 3 Level-0 table #24: 29789 bytes OK
+2023/03/11-14:57:40.513 3 Delete type=0 #20

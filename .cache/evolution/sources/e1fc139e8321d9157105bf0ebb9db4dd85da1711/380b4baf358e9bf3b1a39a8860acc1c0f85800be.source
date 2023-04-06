@@ -1,0 +1,27 @@
+[Data Source]
+DisplayName=My Tasks
+Enabled=true
+Parent=e1fc139e8321d9157105bf0ebb9db4dd85da1711
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=melaine.kanana@student.moringaschool.com
+CredentialName=
+IsExternal=false
+
+[Resource]
+Identity=gtasks::MTY1MDg0OTc4ODcxODg4NzM2MDY6MDow
+
+[Alarms]
+IncludeMe=false
+LastNotified=
+
+[Task List]
+BackendName=gtasks
+Color=#becedd
+Selected=true
+Order=0

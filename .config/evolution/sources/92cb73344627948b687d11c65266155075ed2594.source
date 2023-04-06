@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=melaine.kanana@student.moringaschool.com
+Enabled=true
+Parent=e1fc139e8321d9157105bf0ebb9db4dd85da1711
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=melaine.kanana@student.moringaschool.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false

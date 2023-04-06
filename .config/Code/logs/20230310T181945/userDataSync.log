@@ -1,0 +1,38 @@
+2023-03-10 18:19:47.501 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-03-10 18:19:47.501 [info] Auto Sync is enabled.
+2023-03-10 18:19:47.501 [info] Auto Sync: Suspended until auth token is available.
+2023-03-10 18:19:48.861 [info] Auto Sync: Triggered by Interval
+2023-03-10 18:19:48.861 [info] Sync started.
+2023-03-10 18:19:48.986 [info] Deleting non existing profile from backup /home/user/.config/Code/User/sync/extensions
+2023-03-10 18:19:49.002 [info] Deleting non existing profile from backup /home/user/.config/Code/User/sync/globalState
+2023-03-10 18:19:49.006 [info] Deleting non existing profile from backup /home/user/.config/Code/User/sync/keybindings
+2023-03-10 18:19:49.008 [info] Deleting non existing profile from backup /home/user/.config/Code/User/sync/profiles
+2023-03-10 18:19:49.010 [info] Deleting non existing profile from backup /home/user/.config/Code/User/sync/settings
+2023-03-10 18:19:49.013 [info] Deleting non existing profile from backup /home/user/.config/Code/User/sync/snippets
+2023-03-10 18:19:49.016 [info] Deleting non existing profile from backup /home/user/.config/Code/User/sync/tasks
+2023-03-10 18:19:49.591 [info] Settings: Last sync resource does not exist locally.
+2023-03-10 18:19:50.364 [info] Settings: No changes found during synchronizing settings.
+2023-03-10 18:19:50.373 [info] Keybindings: Last sync resource does not exist locally.
+2023-03-10 18:19:50.714 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-03-10 18:19:50.719 [info] Snippets: Last sync resource does not exist locally.
+2023-03-10 18:19:50.898 [info] Snippets: No changes found during synchronizing snippets.
+2023-03-10 18:19:50.902 [info] Tasks: Last sync resource does not exist locally.
+2023-03-10 18:19:51.060 [info] Tasks: No changes found during synchronizing tasks.
+2023-03-10 18:19:51.064 [info] GlobalState: Last sync resource does not exist locally.
+2023-03-10 18:19:51.594 [info] GlobalState: Updated remote ui state. Added: workbench.panel.alignment.
+2023-03-10 18:19:51.607 [info] GlobalState: Updated last synchronized ui state
+2023-03-10 18:19:51.617 [info] Extensions: Last sync resource does not exist locally.
+2023-03-10 18:19:52.173 [info] Extensions: No changes found during synchronizing extensions.
+2023-03-10 18:19:52.183 [info] Profiles: Last sync resource does not exist locally.
+2023-03-10 18:19:52.472 [info] Profiles: No changes found during synchronizing profiles.
+2023-03-10 18:19:52.478 [info] Sync done. Took 3618ms
+2023-03-10 18:24:52.483 [info] Auto Sync: Triggered by Interval
+2023-03-10 18:24:52.483 [info] Sync started.
+2023-03-10 18:24:53.510 [info] Settings: No changes found during synchronizing settings.
+2023-03-10 18:24:53.516 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-03-10 18:24:53.524 [info] Snippets: No changes found during synchronizing snippets.
+2023-03-10 18:24:53.530 [info] Tasks: No changes found during synchronizing tasks.
+2023-03-10 18:24:53.539 [info] GlobalState: No changes found during synchronizing ui state.
+2023-03-10 18:24:53.656 [info] Extensions: No changes found during synchronizing extensions.
+2023-03-10 18:24:53.659 [info] Profiles: No changes found during synchronizing profiles.
+2023-03-10 18:24:53.664 [info] Sync done. Took 1181ms

@@ -1,0 +1,12 @@
+2023-03-12 13:14:39.040 [info] Extension host with pid 7597 started
+2023-03-12 13:14:39.040 [info] Skipping acquiring lock for /home/user/.config/Code/User/workspaceStorage/be5ffca4670ac16114715f432dd5cdf2.
+2023-03-12 13:14:39.227 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-12 13:14:39.240 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-12 13:14:39.285 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-12 13:14:39.347 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-12 13:14:39.487 [info] Eager extensions activated
+2023-03-12 13:14:39.639 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-12 13:14:39.647 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-12 13:14:40.798 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-12 13:14:41.074 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-03-12 13:20:17.258 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'

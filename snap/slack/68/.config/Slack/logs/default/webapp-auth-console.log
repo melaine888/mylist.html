@@ -1,0 +1,22 @@
+[03/01/23, 09:56:16:233] info: 
+╔══════════════════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux (Store) 5.19.0-32-generic on x64      ║
+╚══════════════════════════════════════════════════════════════════╝ 
+[03/01/23, 09:56:16:233] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-auth-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/01/23, 09:56:16:234] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Nairobi",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}

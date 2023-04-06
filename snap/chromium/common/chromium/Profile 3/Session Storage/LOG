@@ -1,0 +1,6 @@
+2023/03/12-13:26:12.974 3 Reusing MANIFEST /home/user/snap/chromium/common/chromium/Profile 3/Session Storage/MANIFEST-000001
+2023/03/12-13:26:12.980 3 Recovering log #4
+2023/03/12-13:26:12.993 3 Reusing old log /home/user/snap/chromium/common/chromium/Profile 3/Session Storage/000004.log 
+2023/03/12-13:26:18.684 5 Level-0 table #8: started
+2023/03/12-13:26:18.697 5 Level-0 table #8: 16966 bytes OK
+2023/03/12-13:26:18.709 5 Delete type=0 #4

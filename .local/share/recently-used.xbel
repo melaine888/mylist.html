@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/user/hello_world.rb" added="2023-03-09T04:07:28.121815Z" modified="2023-03-09T04:07:28.121819Z" visited="2023-03-09T04:07:28.121815Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-09T04:07:28.121817Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/MY-GIT-PROJECT/README.md" added="2023-03-10T14:06:38.727840Z" modified="2023-03-10T14:06:38.727845Z" visited="2023-03-10T14:06:38.727840Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-10T14:06:38.727843Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/code_1.76.1-1678294265_amd64.deb" added="2023-03-10T14:40:35.583741Z" modified="2023-03-10T14:40:35.583747Z" visited="2023-03-10T14:40:35.583742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-10T14:40:35.583744Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/hello.rb" added="2023-03-11T10:40:32.778510Z" modified="2023-03-11T10:40:32.778516Z" visited="2023-03-11T10:40:32.778510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-11T10:40:32.778513Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/my_list.html" added="2023-03-11T10:40:43.687116Z" modified="2023-03-11T11:12:03.019957Z" visited="2023-03-11T10:40:43.687121Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/chromium_chromium.desktop /snap/bin/chromium %U&apos;" modified="2023-03-11T10:40:43.687137Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-11T11:12:03.019955Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/my_list.txt" added="2023-03-11T11:10:57.305222Z" modified="2023-03-12T10:10:47.219164Z" visited="2023-03-11T11:10:57.305223Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-12T10:10:47.219161Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/sublime-text_build-4143_amd64.deb" added="2023-03-11T11:50:07.115275Z" modified="2023-03-11T11:56:18.114817Z" visited="2023-03-11T11:50:07.115276Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-03-11T11:50:07.115280Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-11T11:56:18.114812Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/firefox.tmp" added="2023-03-11T11:51:58.622239Z" modified="2023-03-11T11:52:19.243523Z" visited="2023-03-11T11:51:58.622241Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-03-11T11:52:19.243517Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads" added="2023-03-11T11:55:47.461532Z" modified="2023-03-11T12:22:31.468570Z" visited="2023-03-11T11:55:47.461532Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-03-11T12:22:31.468566Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/control.tar.xz" added="2023-03-11T11:56:32.779047Z" modified="2023-03-11T11:56:32.779054Z" visited="2023-03-11T11:56:32.779049Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-11T11:56:32.779051Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/sublime-text-3211-1.x86_64.rpm" added="2023-03-11T11:59:04.427110Z" modified="2023-03-11T12:24:09.262301Z" visited="2023-03-11T11:59:04.427111Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rpm"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-11T12:24:09.262298Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/WhatsApp%20Image%202023-03-11%20at%2017.03.06.jpeg" added="2023-03-11T14:15:52.674918Z" modified="2023-03-11T14:22:09.281229Z" visited="2023-03-11T14:15:52.674920Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-03-11T14:22:08.834627Z" count="4"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-03-11T14:22:09.281228Z" count="4"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2023-03-11T14:21:19.518621Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,11 @@
+2023-03-10 17:44:20.289 [info] Started initializing default profile extensions in extensions installation folder. file:///home/user/.vscode/extensions
+2023-03-10 17:44:20.835 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/user/.vscode/extensions Unable to create file 'vscode-userdata:/home/user/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-03-10 17:44:20.836 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/user/.vscode/extensions
+2023-03-10 17:44:21.087 [info] Starting worker process with pid 10865 (type: fileWatcher, window: 1).
+2023-03-10 18:12:58.247 [info] Getting Manifest... techer.open-in-browser
+2023-03-10 18:12:58.256 [info] Installing extension: techer.open-in-browser
+2023-03-10 18:13:02.285 [info] Extension signature verification: techer.open-in-browser. Verification status: Verified.
+2023-03-10 18:13:02.386 [info] Extracted extension to /home/user/.vscode/extensions/.d8008bf5-fac0-4355-bab7-081e8a503016: techer.open-in-browser
+2023-03-10 18:13:02.398 [info] Renamed to /home/user/.vscode/extensions/techer.open-in-browser-2.0.0
+2023-03-10 18:13:02.401 [info] Extracting extension completed. techer.open-in-browser
+2023-03-10 18:13:02.417 [info] Extension installed successfully: techer.open-in-browser

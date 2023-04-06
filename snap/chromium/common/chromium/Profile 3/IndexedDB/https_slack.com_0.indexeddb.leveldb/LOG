@@ -1,0 +1,2 @@
+2023/03/01-09:55:21.611 25e1 Creating DB /home/user/snap/chromium/common/chromium/Profile 3/IndexedDB/https_slack.com_0.indexeddb.leveldb since it was missing.
+2023/03/01-09:55:21.624 25e1 Reusing MANIFEST /home/user/snap/chromium/common/chromium/Profile 3/IndexedDB/https_slack.com_0.indexeddb.leveldb/MANIFEST-000001
